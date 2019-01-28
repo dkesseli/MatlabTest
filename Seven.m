@@ -2,4 +2,4 @@
 %This is a MATLAB-Git test.
 
 Seventeen = 17;
-%Or is it!?
+%Seventeen is definitely 17.
